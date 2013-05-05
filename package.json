@@ -10,7 +10,8 @@
         "test" : "test"
     },
     "dependencies": {
-        "concat-stream": "0.0.8"
+        "concat-stream": "0.0.8",
+        "uint8": "*"
     },
     "devDependencies" : {
         "ecstatic" : "~0.1.6"
